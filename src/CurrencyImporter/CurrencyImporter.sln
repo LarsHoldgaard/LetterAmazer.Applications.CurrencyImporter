@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyImporter", "CurrencyImporter\CurrencyImporter.csproj", "{172D6B75-EA13-43EB-AC3B-F083E04D934F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172D6B75-EA13-43EB-AC3B-F083E04D934F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172D6B75-EA13-43EB-AC3B-F083E04D934F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172D6B75-EA13-43EB-AC3B-F083E04D934F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172D6B75-EA13-43EB-AC3B-F083E04D934F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
